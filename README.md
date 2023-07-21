@@ -1,41 +1,39 @@
-<h1>Hi, I'm Zareef! <br/><a href="https://github.com/zareefrj">Computer Science Student</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Tech Enthusiast</a></h1>
+<h1>Hi, I'm Zareef! <br/><a href="https://github.com/zareefrj">Final Year Computer Science Student</a>, <a href="linkedin.com/in/raja-zareef-firdaus"></h1>
+🎓Universiti Malaya
+🔐Computer Systems & Networks
+⚙️Yayasan UEM Renong Group Scholar (RG29)
 
-<h2>👨‍💻 Uni Projects:</h2>
+<h2>👨‍💻 Uni Projects/Assignments:</h2>
 
 - <b>Data Structures and Algorithms (Python, NLTK, Google Maps API)</b>
   - [Algorithm Design for optimizing store location based on countries.](https://github.com/zareefrj/MoonBucks)
 - <b>Social Network Analysis (Python, Twitter Scrapping, NetworkX)</b>
   - [Analysis on the Political Landscape of Malaysia based from Twitter](https://github.com/zareefrj/Social-Network-Analysis)
 - <b>Zero-Logon Exploitation (VirtualBox, Kali Linux, Windows 10 Enterprise, Active Directory)</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/zareefrj/ZeroLogon)
+  - [ZeroLogon Exploitation using Impacket & ZeroLogon script](https://github.com/zareefrj/ZeroLogon)
+- <b>Delivery Route Optimization (Java)</b>
+  - [Comparing different travelling algorithms in optimizing delivery routes](https://github.com/zareefrj/Project2_Simps)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📈 Final Year Project:</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- <b>Analytical Module Development for Waste Management System (ThingsBoard, Javascript, Arduino Uno, Python)</b>
+  - [Predicting waste generation rate of dumpsites using Time Series Forecasting](https://github.com/zareefrj/Time-Series-Forecasting)
+
+<h2>🌱 Personal Projects:</h2>
+
+- <b>URL Shortener (FrontEnd & BackEnd Framework)</b>
+  - [ZeroLogon Exploitation using Impacket & ZeroLogon script](https://github.com/zareefrj/ZeroLogon)
+- <b>Data Analytics (Excel, SQL, Python, PowerBI, Microsoft Server Management Studio)</b>
+  - [ZeroLogon Exploitation using Impacket & ZeroLogon script](https://github.com/zareefrj/ZeroLogon)
+- <b>Personal Website</b>
+  - [ZeroLogon Exploitation using Impacket & ZeroLogon script](https://github.com/zareefrj/ZeroLogon)
+- <b>Browser Attack (Advanced Phishing)</b>
+  - [ZeroLogon Exploitation using Impacket & ZeroLogon script](https://github.com/zareefrj/ZeroLogon)
   
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[linkedin]: linkedin.com/in/raja-zareef-firdaus
+[gmail]: zareefrj@gmail.com
