@@ -1,4 +1,4 @@
-<h1>Hi, I'm Zareef! <br/><a href="https://github.com/zareefrj">Final Year Computer Science Student</a>, <a href="linkedin.com/in/raja-zareef-firdaus"></h1>
+<h1>Hi, I'm Zareef! <br/><a href="https://github.com/zareefrj">Final Year Computer Science Student</a> <a href="linkedin.com/in/raja-zareef-firdaus"></h1>
 🎓Universiti Malaya
 🔐Computer Systems & Networks
 ⚙️Yayasan UEM Renong Group Scholar (RG29)
@@ -21,8 +21,8 @@
 
 <h2>🌱 Personal Projects:</h2>
 
-- <b>URL Shortener (FrontEnd & BackEnd Framework)</b>
-  - [ZeroLogon Exploitation using Impacket & ZeroLogon script](https://github.com/zareefrj/ZeroLogon)
+- <b>URL Shortener (React JS, Python Flask, Firebase Data Base and Heroku.)</b>
+  - [Still in Progress](https://github.com/zareefrj/pendekkan)
 - <b>Data Analytics (Excel, SQL, Python, PowerBI, Microsoft Server Management Studio)</b>
   - [ZeroLogon Exploitation using Impacket & ZeroLogon script](https://github.com/zareefrj/ZeroLogon)
 - <b>Personal Website</b>
@@ -32,8 +32,6 @@
   
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-
-[linkedin]: linkedin.com/in/raja-zareef-firdaus
-[gmail]: zareefrj@gmail.com
+<a href="https://www.linkedin.com/in/raja-zareef-firdaus">
+    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+</a>
