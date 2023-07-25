@@ -11,8 +11,8 @@
   - [Analysis on the Political Landscape of Malaysia based from Twitter](https://github.com/zareefrj/Social-Network-Analysis)
 - <b>Zero-Logon Exploitation (VirtualBox, Kali Linux, Windows 10 Enterprise, Active Directory)</b>
   - [ZeroLogon Exploitation using Impacket & ZeroLogon script](https://github.com/zareefrj/ZeroLogon)
-- <b>Delivery Route Optimization (Java)</b>
-  - [Comparing different travelling algorithms in optimizing delivery routes](https://github.com/zareefrj/Project2_Simps)
+- <b>Embedded System Programming (C++, MBED ARM Microcontroller)</b>
+  - [Whack-A-Mole game on an MBED](https://github.com/zareefrj/Mbed-Whack-A-Mole)
 
 <h2>📈 Final Year Project:</h2>
 
