@@ -13,8 +13,8 @@
   - [ZeroLogon Exploitation using Impacket & ZeroLogon script](https://github.com/zareefrj/ZeroLogon)
 - <b>Embedded System Programming (C++, MBED ARM Microcontroller)</b>
   - [Whack-A-Mole game on an MBED](https://github.com/zareefrj/Mbed-Whack-A-Mole)
-- <b>URL Shortener (React JS, Python Flask, Firebase Data Base and Heroku.)</b>
-  - [Still in Progress](https://github.com/zareefrj/pendekkan)
+- <b>Graph Planarity Checker (Python, NetworkX)</b>
+  - [Determining Planarity of Randomly Generated Simple Graphs Using Design Thinking Processes](https://github.com/zareefrj/Graph-Planarity)
 - <b>Data Analytics (Excel, SQL, Python, PowerBI, Microsoft Server Management Studio)</b>
   - [ZeroLogon Exploitation using Impacket & ZeroLogon script](https://github.com/zareefrj/ZeroLogon)
 
