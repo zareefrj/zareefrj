@@ -15,15 +15,13 @@
   - [Whack-A-Mole game on an MBED](https://github.com/zareefrj/Mbed-Whack-A-Mole)
 - <b>Graph Planarity Checker (Python, NetworkX)</b>
   - [Determining Planarity of Randomly Generated Simple Graphs Using Design Thinking Processes](https://github.com/zareefrj/Graph-Planarity)
-- <b>Data Analytics (Excel, SQL, Python, PowerBI, Microsoft Server Management Studio)</b>
-  - [ZeroLogon Exploitation using Impacket & ZeroLogon script](https://github.com/zareefrj/ZeroLogon)
+- <b>Time Series Forecasting (Python)</b>
+  - [Implementing different types of forecasting: ARIMA, FB PROPHET.](https://github.com/zareefrj/Time-Series-Forecasting)
 
-<h2>📈 Final Year Project:</h2>
+<h2>📈 Final Year Project (Ongoing) :</h2>
 
 - <b>Analytical Module Development for Waste Management System (ThingsBoard, Javascript, Arduino Uno, Python)</b>
   - [Predicting waste generation rate of dumpsites using Time Series Forecasting](https://github.com/zareefrj/Final-Year-Project)
-- <b>Time Series Forecasting (Python)</b>
-  - [Implementing different types of forecasting: ARIMA, FB PROPHET.](https://github.com/zareefrj/Time-Series-Forecasting)
 
 <h2> 🤳 Connect with me:</h2>
 
