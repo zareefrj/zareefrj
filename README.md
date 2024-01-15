@@ -4,7 +4,8 @@
 ⚙️Yayasan UEM Renong Group Scholar (RG29)
 
 <h2>👨‍💻 Projects:</h2>
-
+-<b>Exploring the Cloud with AWS (Amazon AWS EC2, HTCondor, Montage, Hadoop, Socket Programming)
+  -[Implementing Distributed Systems on EC2]
 - <b>Data Structures and Algorithms (Python, NLTK, Google Maps API)</b>
   - [Algorithm Design for optimizing store location based on countries.](https://github.com/zareefrj/MoonBucks)
 - <b>Social Network Analysis (Python, Twitter Scrapping, NetworkX)</b>
@@ -18,10 +19,10 @@
 - <b>Time Series Forecasting (Python)</b>
   - [Implementing different types of forecasting: ARIMA, FB PROPHET.](https://github.com/zareefrj/Time-Series-Forecasting)
 
-<h2>📈 Final Year Project (Ongoing) :</h2>
+<h2>📈 Final Year Project:</h2>
 
-- <b>Analytical Module Development for Waste Management System (ThingsBoard, Javascript, Arduino Uno, Python)</b>
-  - [Predicting waste generation rate of dumpsites using Time Series Forecasting](https://github.com/zareefrj/Final-Year-Project)
+- <b>Analytical Module Development for Waste Management System (ThingsBoard, MQTT, Arduino Uno, Python)</b>
+  - [Predicting waste generation rate of dumpsites using Time Series Forecasting](https://github.com/zareefrj/Waste_Forecasting_FYP)
 
 <h2> 🤳 Connect with me:</h2>
 
