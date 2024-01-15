@@ -4,8 +4,9 @@
 ⚙️Yayasan UEM Renong Group Scholar (RG29)
 
 <h2>👨‍💻 Projects:</h2>
--<b>Exploring the Cloud with AWS (Amazon AWS EC2, HTCondor, Montage, Hadoop, Socket Programming)
-  -[Implementing Distributed Systems on EC2]
+
+- <b>Exploring the Clouds with Amazon AWS (EC2, Hadoop, NFS, HTCondor, Montage)</b>
+  - [Implementing Distributed Systems on AWS.]
 - <b>Data Structures and Algorithms (Python, NLTK, Google Maps API)</b>
   - [Algorithm Design for optimizing store location based on countries.](https://github.com/zareefrj/MoonBucks)
 - <b>Social Network Analysis (Python, Twitter Scrapping, NetworkX)</b>
