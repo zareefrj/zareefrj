@@ -5,8 +5,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Exploring the Clouds with Amazon AWS (EC2, Hadoop, NFS, HTCondor, Montage)</b>
-  - [Implementing Distributed Systems on AWS.]
+- <b>Amazon AWS (EC2, Amplify, S3, Lambda, API Gateway)</b>
+  - [Implementing Distributed Systems on AWS.](https://github.com/zareefrj/Cloud_Projects)
 - <b>Data Structures and Algorithms (Python, NLTK, Google Maps API)</b>
   - [Algorithm Design for optimizing store location based on countries.](https://github.com/zareefrj/MoonBucks)
 - <b>Social Network Analysis (Python, Twitter Scrapping, NetworkX)</b>
