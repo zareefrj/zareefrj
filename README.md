@@ -1,7 +1,8 @@
-<h1>Hi, I'm Zareef! <br/><a href="https://github.com/zareefrj">Final Year Computer Science Student</a> <a href="linkedin.com/in/raja-zareef-firdaus"></h1>
+<h1>Hi, I'm Zareef! <br/><a href="https://github.com/zareefrj">Computer Science Graduate</a> <a href="linkedin.com/in/raja-zareef-firdaus"></h1>
 🎓Universiti Malaya
 🔐Computer Systems & Networks
 ⚙️Yayasan UEM Renong Group Scholar (RG29)
+🏥Hospital Tunku Azizah / Konsortium ProHAWK Sdn. Bhd. >> Sys Admin / System Support
 
 <h2>👨‍💻 Projects:</h2>
 
